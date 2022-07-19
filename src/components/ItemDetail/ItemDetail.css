@@ -1,0 +1,18 @@
+.detalle{
+    text-align: center;
+}
+
+.detalle h1{
+    margin-top: 1rem;
+}
+
+.detalle img{
+    margin-top: 1rem;
+}
+
+.detalle p{
+    width: 40rem;
+    height: 10rem;
+    margin-left: 32.5%;
+    margin-top: 2rem;
+}

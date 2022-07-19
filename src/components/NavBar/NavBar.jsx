@@ -9,17 +9,17 @@ import './NavBar.css'
 const NavBar = () => {
   return (
     <>
-      <Navbar expand="lg">
+      <Navbar expand="lg" className="bg-warning">
         <Container>
-          <Navbar.Brand href="#home" id="title">            
+          <Navbar.Brand href="/" id="title">            
             MILDECOS
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ms-auto">
-              <Nav.Link href="#inicio">Inicio</Nav.Link>
-              <Nav.Link href="#productos">Productos</Nav.Link>
-              <Nav.Link href="#contacto">Contacto</Nav.Link>
+              <Nav.Link href="/">Inicio</Nav.Link>
+              <Nav.Link href="productos">Productos</Nav.Link>
+              <Nav.Link href="contacto">Contacto</Nav.Link>
 
               <CartWidget />
             </Nav>

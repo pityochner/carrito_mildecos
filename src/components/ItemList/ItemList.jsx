@@ -1,11 +1,12 @@
 import Button from 'react-bootstrap/Button';
 import { Card, Row, Col, Container } from "react-bootstrap";
+import {Link} from 'react-router-dom'
 
 function ItemList(props) {
     return (
         <>
             <div id="productos">
-                <h1 className="text-center p-3">Catálogo</h1>
+                <h1 className="text-center p-3">Productos</h1>
                 <Container className="itemContainer">
                     <Row>
                         {props.items.map((items, k) => (
@@ -15,7 +16,9 @@ function ItemList(props) {
                                     <Card.Body>
                                         <Card.Title>{items.productName}</Card.Title>
                                         <Card.Text>${items.price}</Card.Text>
+                                        <Link to={`/item/${items.id}`}>
                                         <Button className="btn-bg btn-light text-dark">Ver más</Button>
+                                        </Link>
                                         <br></br>
                                         <Button className="btn-dark mt-3">Agregar al carrito</Button>
                                     </Card.Body>
