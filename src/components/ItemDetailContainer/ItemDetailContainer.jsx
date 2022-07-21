@@ -13,8 +13,8 @@ const ItemDetailContainer = () => {
 
   useEffect( () => {
     promise.then( (response) =>{
-      const foundItem = response.filter(item => item.id == params.id)
-      setItem(foundItem[0])
+      const foundItem = response.find(item => item.id == params.id)
+      setItem(foundItem)
     })
   }, [])
   return <ItemDetail item={item} />;
