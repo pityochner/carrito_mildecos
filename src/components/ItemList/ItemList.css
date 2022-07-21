@@ -1,0 +1,15 @@
+body{
+    background-color: #f5e5b1fd !important;
+}
+
+.card{
+    background-color: #f5e5b1fd !important;
+    border-radius: 2rem !important;
+    border: 0.5rem solid #b9a668fd !important;
+    overflow: auto !important;
+}
+
+h1{
+    color: #b9a668fd;
+}
+

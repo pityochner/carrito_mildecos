@@ -9,7 +9,7 @@ import './NavBar.css'
 const NavBar = () => {
   return (
     <>
-      <Navbar expand="lg" className="bg-warning">
+      <Navbar expand="lg">
         <Container>
           <Navbar.Brand href="/" id="title">            
             MILDECOS
@@ -18,7 +18,7 @@ const NavBar = () => {
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ms-auto">
               <Nav.Link href="/">Inicio</Nav.Link>
-              <Nav.Link href="productos">Productos</Nav.Link>
+              <Nav.Link href="/productos/">Productos</Nav.Link>
               <Nav.Link href="contacto">Contacto</Nav.Link>
 
               <CartWidget />

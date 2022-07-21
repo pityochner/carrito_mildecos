@@ -1,4 +1,5 @@
 import './ItemDetail.css'
+import ItemCount from '../ItemCount/ItemCount'
 
 const ItemDetail = ({ item }) => {
   return (
@@ -8,6 +9,7 @@ const ItemDetail = ({ item }) => {
         <img src={item.productImage} alt="" />
         <p>{item.detalle}</p>
       </div>
+      <ItemCount/>
     </>
   );
 };

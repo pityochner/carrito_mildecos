@@ -1,6 +1,7 @@
 import Button from 'react-bootstrap/Button';
 import { Card, Row, Col, Container } from "react-bootstrap";
 import {Link} from 'react-router-dom'
+import './ItemList.css'
 
 function ItemList(props) {
     return (

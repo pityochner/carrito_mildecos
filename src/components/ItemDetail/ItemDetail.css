@@ -8,6 +8,8 @@
 
 .detalle img{
     margin-top: 1rem;
+    border: 0.5rem solid #b9a668fd;
+    border-radius: 3rem;
 }
 
 .detalle p{
