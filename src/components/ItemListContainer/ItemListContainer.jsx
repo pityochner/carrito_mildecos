@@ -37,7 +37,7 @@ function ItemListContainer(props) {
     <>
       <div className='container'>
         <ItemList items={items} />
-        <ItemCount stock={99} initial={0} onAdd={onAddItem} />
+        <ItemCount stock={items.stock} initial={0} onAdd={onAddItem} />
       </div>
     </>)
 };

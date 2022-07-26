@@ -1,15 +1,30 @@
 import './ItemDetail.css'
+import { Link } from "react-router-dom";
 import ItemCount from '../ItemCount/ItemCount'
+import { useState } from 'react';
 
 const ItemDetail = ({ item }) => {
+  const [amount, setAmount] = useState(0);
+  const onAdd = (amount) => {
+  setAmount(amount);
+  }
   return (
     <>
       <div className='detalle'>
         <h1>{item.productName}</h1>
-        <img src={item.productImage} alt="" />
+        <img src={item.productImage}/>
         <p>{item.detalle}</p>
+        {amount == 0 ? (
+        <ItemCount items={item} initial={0} onAdd={onAdd} />
+          ) : (
+         <h1>{amount} items agregados al carrito</h1>
+          )}
       </div>
-      <ItemCount/>
+      <div className="d-flex justify-content-center mt-2 mb-2">
+        <Link to='/cart/'>
+          <button className="btn btn-dark">Ir a comprar</button>
+        </Link>
+      </div>
     </>
   );
 };
