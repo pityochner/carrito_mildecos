@@ -6,7 +6,7 @@ import CartWidget from "../CartWidget/CartWidget"
 import './NavBar.css'
 
 
-const NavBar = () => {
+const NavBar = ({amountItems}) => {
   return (
     <>
       <Navbar expand="lg">
@@ -21,7 +21,7 @@ const NavBar = () => {
               <Nav.Link href="/productos/">Productos</Nav.Link>
               <Nav.Link href="contacto">Contacto</Nav.Link>
 
-              <CartWidget />
+              <CartWidget amountItems={amountItems}/>
             </Nav>
           </Navbar.Collapse>
         </Container>

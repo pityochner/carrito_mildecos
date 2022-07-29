@@ -7,7 +7,18 @@ function ItemList(props) {
     return (
         <>
             <div id="productos">
-                <h1 className="text-center p-3">Productos</h1>
+                <h1 className="text-center p-3">PRODUCTOS</h1>
+                <div className="d-flex justify-content-center mt-2 mb-2">
+                    <Link className='linkButtom buttonLink' to='/category/damero'>
+                        <button className="btn">DAMERO</button>
+                    </Link>
+                    <Link className='linkButtom buttonLink' to='/category/escalonado'>
+                        <button className="btn">ESCALONADO</button>
+                    </Link>
+                    <Link className='linkButtom buttonLink' to='/category/vintage'>
+                        <button className="btn">VINTAGE</button>
+                    </Link>
+                </div>    
                 <Container className="itemContainer">
                     <Row>
                         {props.items.map((items, k) => (
@@ -18,12 +29,12 @@ function ItemList(props) {
                                         <Card.Title>{items.productName}</Card.Title>
                                         <Card.Text>${items.price}</Card.Text>
                                         <Link to={`/item/${items.id}`}>
-                                        <Button className="btn-bg btn-light text-dark">Ver más</Button>
+                                        <Button className="btn-bg btn-secondary text-light">Ver más</Button>
                                         </Link>
                                         <br></br>
                                         <Button className="btn-dark mt-3">Agregar al carrito</Button>
                                     </Card.Body>
-                                    <Card.Footer className="text-muted">Stock {items.stock}</Card.Footer>
+                                    <Card.Footer className="text-muted">Stock: {items.stock}</Card.Footer>
                                 </Card>
                             </Col>
                         ))}

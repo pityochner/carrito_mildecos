@@ -3,10 +3,11 @@ import { Link } from "react-router-dom";
 import ItemCount from '../ItemCount/ItemCount'
 import { useState } from 'react';
 
-const ItemDetail = ({ item }) => {
+const ItemDetail = ({ item, setAmountItems }) => {
   const [amount, setAmount] = useState(0);
   const onAdd = (amount) => {
-  setAmount(amount);
+    setAmount(amount);
+    setAmountItems((prevState) => prevState + 1);
   }
   return (
     <>
@@ -17,7 +18,7 @@ const ItemDetail = ({ item }) => {
         {amount == 0 ? (
         <ItemCount items={item} initial={0} onAdd={onAdd} />
           ) : (
-         <h1>{amount} items agregados al carrito</h1>
+         <h1>¡{amount} VENECITAS AGREGADAS AL CARRITO!</h1>
           )}
       </div>
       <div className="d-flex justify-content-center mt-2 mb-2">

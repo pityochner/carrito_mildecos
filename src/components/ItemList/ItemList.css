@@ -13,3 +13,16 @@ h1{
     color: #b9a668fd;
 }
 
+.buttonLink{
+    width: 10rem;
+    text-align: center;
+    background-color: #f5e5b1fd;   
+    border: 0.3rem solid #b9a668fd;
+    border-radius: 1rem;
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+}
+
+.buttonLink button{
+    color: #b9a668fd;
+}

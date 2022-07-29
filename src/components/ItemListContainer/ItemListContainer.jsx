@@ -2,43 +2,36 @@ import ItemCount from '../ItemCount/ItemCount';
 import Data from "../../Data/data"
 import { useState, useEffect } from 'react';
 import ItemList from '../ItemList/ItemList';
+import { useParams } from 'react-router-dom';
 
-function ItemListContainer(props) {
-
-  //Guardar datos en un estado 
+ const ItemListContainer = () => {
+  const { name } = useParams();
   const [items, setItems] = useState([]);
-
-  //Crear promesa que retorne los datos
+  const [loading, setLoading] = useState(false);
+  const promise = new Promise((resolve) => {
+    setTimeout(() => resolve(Data), 2000);
+  });
 
   useEffect(() => {
-    let promiseItems = new Promise((resolve, reject) => {
-      setTimeout(() => {
-        resolve(Data);
-        reject("Ha ocurrido un error");
-      }, 2000);
-    })
-
-    promiseItems.then(
-      (respuesta) => {
-        setItems(Data);
+    setLoading(true);
+    promise.then((res) => {
+      const products = res;
+      if (name) {
+        setItems(Data.filter((items) => items.category == name));
+      } else {
+        setItems(products);
       }
-    ).catch((error) => {
-      console.error(error);
-    })
-  },
-    []
-  )
-
-  const onAddItem = (count) => {
-    alert(`${count} items van a ser añadidos al carrito!`);
-  }
+      setLoading(false);
+    });
+  }, [name]);
 
   return (
     <>
-      <div className='container'>
+      <div className="mt-5">
         <ItemList items={items} />
-        <ItemCount stock={items.stock} initial={0} onAdd={onAddItem} />
       </div>
-    </>)
+    </>
+  );
 };
+
 export default ItemListContainer;

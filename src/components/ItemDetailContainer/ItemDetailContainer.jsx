@@ -3,7 +3,7 @@ import ItemDetail from '../ItemDetail/ItemDetail';
 import { useParams } from 'react-router-dom';
 import data from '../../Data/data';
 
-const ItemDetailContainer = () => {
+const ItemDetailContainer = ({setAmountItems}) => {
   const [item, setItem] = useState({});
   const params = useParams();
 
@@ -17,7 +17,7 @@ const ItemDetailContainer = () => {
       setItem(foundItem)
     })
   }, [])
-  return <ItemDetail item={item} />;
+  return <ItemDetail setAmountItems={setAmountItems}  item={item} />;
 }
 
 
