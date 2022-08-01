@@ -11,15 +11,15 @@ const NavBar = () => {
     <>
       <Navbar expand="lg">
         <Container>
-          <Navbar.Brand href="/" id="title">            
+          <Navbar.Brand className="navLink" href="/" id="title">            
             MILDECOS
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ms-auto">
-              <Nav.Link href="/">Inicio</Nav.Link>
-              <Nav.Link href="/productos/">Productos</Nav.Link>
-              <Nav.Link href="contacto">Contacto</Nav.Link>
+              <Nav.Link className="navLink" href="/">Inicio</Nav.Link>
+              <Nav.Link className="navLink" href="/productos/">Productos</Nav.Link>
+              <Nav.Link className="navLink" href="contacto">Contacto</Nav.Link>
 
               <CartWidget/>
             </Nav>
