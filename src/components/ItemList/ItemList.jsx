@@ -9,6 +9,9 @@ function ItemList(props) {
             <div id="productos">
                 <h1 className="text-center p-3">PRODUCTOS</h1>
                 <div className="d-flex justify-content-center mt-2 mb-2">
+                    <Link className='linkButtom buttonLink' to='/productos/'>
+                        <button className="btn">TODOS</button>
+                    </Link>
                     <Link className='linkButtom buttonLink' to='/category/damero'>
                         <button className="btn">DAMERO</button>
                     </Link>
