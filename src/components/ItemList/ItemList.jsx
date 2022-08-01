@@ -7,35 +7,39 @@ function ItemList(props) {
     return (
         <>
             <div id="productos">
-                <h1 className="text-center p-3">PRODUCTOS</h1>
-                <div className="d-flex justify-content-center mt-2 mb-2">
-                    <Link className='linkButtom buttonLink' to='/productos/'>
-                        <button className="btn">TODOS</button>
+                <h1 className="text-center mb-3">PRODUCTOS</h1>
+                <div className="d-flex justify-content-center mt-2 mb-2 flex-wrap">
+                    <Link  to='/productos/'>
+                        <button className='buttonLink'>TODOS</button>
                     </Link>
-                    <Link className='linkButtom buttonLink' to='/category/damero'>
-                        <button className="btn">DAMERO</button>
+                    <Link to='/category/damero'>
+                        <button className='buttonLink'>DAMERO</button>
                     </Link>
-                    <Link className='linkButtom buttonLink' to='/category/escalonado'>
-                        <button className="btn">ESCALONADO</button>
+                    <Link to='/category/escalonado'>
+                        <button className='buttonLink'>ESCALONADO</button>
                     </Link>
-                    <Link className='linkButtom buttonLink' to='/category/vintage'>
-                        <button className="btn">VINTAGE</button>
+                    <Link to='/category/metalizado'>
+                        <button className='buttonLink'>METALIZADO</button>
+                    </Link>
+                    <Link to='/category/marmolado'>
+                        <button className='buttonLink'>MARMOLADO</button>
+                    </Link>
+                    <Link to='/category/vintage'>
+                        <button className='buttonLink'>VINTAGE</button>
                     </Link>
                 </div>    
                 <Container className="itemContainer">
                     <Row>
                         {props.items.map((items, k) => (
-                            <Col key={k} xs={12} md={4} lg={4}>
+                            <Col key={k} xs={12} md={4} lg={3}>
                                 <Card className="mb-3 text-center card">
                                     <Card.Img src={items.productImage} />
                                     <Card.Body>
                                         <Card.Title>{items.productName}</Card.Title>
                                         <Card.Text>${items.price}</Card.Text>
                                         <Link to={`/item/${items.id}`}>
-                                        <Button className="btn-bg btn-secondary text-light">Ver más</Button>
+                                        <Button className="btn arbol">COMPRAR</Button>
                                         </Link>
-                                        <br></br>
-                                        <Button className="btn-dark mt-3">Agregar al carrito</Button>
                                     </Card.Body>
                                     <Card.Footer className="text-muted">Stock: {items.stock}</Card.Footer>
                                 </Card>

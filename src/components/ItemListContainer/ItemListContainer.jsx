@@ -9,7 +9,7 @@ import { useParams } from 'react-router-dom';
   const [items, setItems] = useState([]);
   const [loading, setLoading] = useState(false);
   const promise = new Promise((resolve) => {
-    setTimeout(() => resolve(Data), 2000);
+    setTimeout(() => resolve(Data), 500);
   });
 
   useEffect(() => {

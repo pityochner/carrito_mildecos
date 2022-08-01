@@ -8,7 +8,7 @@ const ItemDetailContainer = ({setAmountItems}) => {
   const params = useParams();
 
   const promise = new Promise( (res, rej) =>{
-    setTimeout( () => res(data) , 2000)
+    setTimeout( () => res(data), 500)
   })
 
   useEffect( () => {

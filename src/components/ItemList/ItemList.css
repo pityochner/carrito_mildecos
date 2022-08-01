@@ -5,7 +5,7 @@ body{
 .card{
     background-color: #f5e5b1fd !important;
     border-radius: 2rem !important;
-    border: 0.5rem solid #b9a668fd !important;
+    border: 0.3rem solid #b9a668fd !important;
     overflow: auto !important;
 }
 
@@ -14,15 +14,36 @@ h1{
 }
 
 .buttonLink{
-    width: 10rem;
-    text-align: center;
-    background-color: #f5e5b1fd;   
-    border: 0.3rem solid #b9a668fd;
-    border-radius: 1rem;
-    margin-bottom: 1rem;
-    margin-left: 1rem;
+    width: 10rem !important;
+    text-align: center !important;
+    color: #b9a668fd !important;
+    background-color: #f5e5b1fd !important;   
+    border: 0.3rem solid #b9a668fd !important;
+    border-radius: 1rem !important;
+    margin-bottom: 1rem !important;
+    margin-left: 1rem !important;
+    font-weight: 500 !important;
 }
 
-.buttonLink button{
-    color: #b9a668fd;
+.buttonLink:hover{
+    background-color: #b9a668fd;
+    color: #f5e5b1fd;
+}
+
+.arbol{
+    background-color: #b9a668fd !important;
+    color: #f5e5b1fd !important;
+    border: 0.2rem solid #b9a668fd !important;
+    font-weight: 600 !important;
+    border-radius: 1rem !important;
+}
+
+.arbol:hover{
+    border: 0.2rem solid #b9a668fd !important;
+    background-color: #f5e5b1fd !important;
+    color: #b9a668fd !important;
+}
+
+.divButton{
+    display: none !important;
 }
