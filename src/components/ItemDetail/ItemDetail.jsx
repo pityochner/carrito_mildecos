@@ -4,8 +4,10 @@ import ItemCount from '../ItemCount/ItemCount'
 import { useState } from 'react';
 import { CartContext } from '../../contexts/CartContext';
 import { useContext } from 'react';
+import { Card } from "react-bootstrap";
 
-const ItemDetail = ({ item, setAmountItems }) => {
+
+const ItemDetail = ({ item, setAmountItem }) => {
   const { setCartItems } = useContext(CartContext);
   const [amount, setAmount] = useState(0);
   const onAdd = (amount) => {
@@ -17,7 +19,9 @@ const ItemDetail = ({ item, setAmountItems }) => {
       <div className='detalle'>
         <h1>{item.productName}</h1>
         <img src={item.productImage}/>
-        <p>{item.detalle}</p>
+        <Card.Footer className="mt-3 mb-5">
+          {item.detalle}
+        </Card.Footer>
         {amount == 0 ? (
         <ItemCount items={item} initial={0} onAdd={onAdd} />
           ) : (

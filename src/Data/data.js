@@ -10,7 +10,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/da-113-21-e5bb9563ea27a0260816509450355790-480-0.jpg",
       "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño decada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecitade 2*2 cm viene con una separación de 2 mm entre venecita y venecita."
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita."
     },
     {
       "id": "DA-112",
@@ -20,7 +20,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/da-112-21-282caa0b172a6b7ee516509449901375-480-0.jpg",
       "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño decada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecitade 2*2 cm viene con una separación de 2 mm entre venecita y venecita."
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita."
     },
     {
       "id": "DA-111",
@@ -30,7 +30,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/da-111-31-e57ac2a28b011cee4b16509449448947-480-0.jpg",
       "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño decada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecitade 2*2 cm viene con una separación de 2 mm entre venecita y venecita."
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita."
     },
     {
       "id": "DA-110",
@@ -38,9 +38,9 @@ const data = [
       "isPublished": "false",
       "productName": "Damero DA-110",
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/da-110-11-9f87f0791522c0915c16509448518900-480-0.jpg",
-      "price": "1640,00",
+      "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "DA-108",
@@ -48,9 +48,9 @@ const data = [
       "isPublished": "false",
       "productName": "Damero DA-108",
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/da-108-21-1e94b45b120dccf9b616509447914833-480-0.jpg",
-      "price": "1640,00",
+      "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "DA-107",
@@ -58,9 +58,9 @@ const data = [
       "isPublished": "false",
       "productName": "Damero DA-107",
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/da-107-31-e1f9066c3a1dd7b70216509447511939-480-0.jpg",
-      "price": "1640,00",
+      "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "DA-106",
@@ -68,9 +68,9 @@ const data = [
       "isPublished": "false",
       "productName": "Damero DA-106",
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/da-106-21-aa70feeb48aa7b341e16509446951317-480-0.jpg",
-      "price": "1640,00",
+      "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "DA-105",
@@ -78,9 +78,9 @@ const data = [
       "isPublished": "false",
       "productName": "Damero DA-105",
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/da-105-311-67a1b3c9c7f77563e216509444469601-480-0.jpg",
-      "price": "1640,00",
+      "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "DA-104",
@@ -88,9 +88,9 @@ const data = [
       "isPublished": "false",
       "productName": "Damero DA-104",
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/da-104-11-a6a66ea1f2e45fc29f16509128913955-320-0.jpg",
-      "price": "1640,00",
+      "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "DA-103",
@@ -98,9 +98,9 @@ const data = [
       "isPublished": "false",
       "productName": "Damero DA-103",
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/da-103-21-e1e02c411b20ce3b2316509127898884-320-0.jpg",
-      "price": "1640,00",
+      "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "DA-102",
@@ -108,9 +108,9 @@ const data = [
       "isPublished": "false",
       "productName": "Damero DA-102",
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/da-102-11-1bcb577410ab074c5516509126375052-320-0.jpg",
-      "price": "1640,00",
+      "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "DA-101",
@@ -118,9 +118,9 @@ const data = [
       "isPublished": "false",
       "productName": "Damero DA-101",
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/da-101-11-7a2c842c02504996b416508174118103-320-0.jpg",
-      "price": "1640,00",
+      "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
 
     //ESCALONADOS
@@ -131,9 +131,9 @@ const data = [
       "isPublished": "false",
       "productName": "Escalonado ES-419",
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/es-419-11-fe4805ae4ad6b9e4f416511066569020-480-0.jpg",
-      "price": "1640,00",
+      "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "ES-418",
@@ -141,9 +141,9 @@ const data = [
       "isPublished": "false",
       "productName": "Escalonado ES-418",
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/es-418-11-3840d258df2efdb66216511066015896-480-0.jpg",
-      "price": "1640,00",
+      "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "ES-417",
@@ -151,9 +151,9 @@ const data = [
       "isPublished": "false",
       "productName": "Escalonado ES-417",
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/es-417-21-f4308393ff9fb8b54816511065414216-480-0.jpg",
-      "price": "1640,00",
+      "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "ES-416",
@@ -161,9 +161,9 @@ const data = [
       "isPublished": "false",
       "productName": "Escalonado ES-416",
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/es-416-11-d5bc3977ecd999e32316511064651882-480-0.jpg",
-      "price": "1640,00",
+      "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "ES-415",
@@ -171,9 +171,9 @@ const data = [
       "isPublished": "false",
       "productName": "Escalonado ES-415",
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/es-415-11-1a65bd4d310647d86816511064107635-480-0.jpg",
-      "price": "1640,00",
+      "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "ES-414",
@@ -181,9 +181,9 @@ const data = [
       "isPublished": "false",
       "productName": "Escalonado ES-414",
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/es-414-21-a4d29395e13209b4a316511063524487-480-0.jpg",
-      "price": "1640,00",
+      "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "ES-413",
@@ -191,9 +191,9 @@ const data = [
       "isPublished": "false",
       "productName": "Escalonado ES-413",
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/es-413-11-47bbdc765fe19b890216511062936250-480-0.jpg",
-      "price": "1640,00",
+      "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "ES-411",
@@ -201,9 +201,9 @@ const data = [
       "isPublished": "false",
       "productName": "Escalonado ES-411",
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/es-411-51-50e36cef6ef7cc045716511061537125-480-0.jpg",
-      "price": "1640,00",
+      "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "ES-410",
@@ -213,7 +213,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/es-410-11-067c58119b4e92273816511060919573-480-0.jpg",
       "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "ES-409",
@@ -223,7 +223,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/es-409-11-d0aaac88ea4c222a7416511058983950-480-0.jpg",
       "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "ES-408",
@@ -233,7 +233,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/es-408-11-166968fc1e0f3883f816511058270684-480-0.jpg",
       "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "ES-407",
@@ -243,7 +243,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/es-407-31-a9726c6c7ac41db0cc16511057600351-480-0.jpg",
       "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "ES-406",
@@ -253,7 +253,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/es-406-11-fc9288571c43738d8416511056804407-480-0.jpg",
       "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "ES-405",
@@ -263,7 +263,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/es-405-21-f8882a0ef078b7566516511056112972-480-0.jpg",
       "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "ES-404",
@@ -273,7 +273,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/es-404-11-04bd853f9321fa165d16511055526768-480-0.jpg",
       "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "ES-403",
@@ -283,7 +283,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/es-403-21-aae07d0171256b377216511054588825-480-0.jpg",
       "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "ES-402",
@@ -293,7 +293,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/es-402-21-f2cb2db957aa9e9b5016511052093641-480-0.jpg",
       "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "ES-401",
@@ -303,7 +303,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/es-401-21-851dc15728978ba68f16511051003051-480-0.jpg",
       "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
 
     //METALIZADO
@@ -316,7 +316,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/me-306-11-f9841002ae37034e8916511074529855-480-0.jpg",
       "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "ME-305",
@@ -326,7 +326,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/me-305-21-cd7eb76b61d6ed86ab16511073859210-480-0.jpg",
       "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "ME-303",
@@ -336,7 +336,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/me-303-11-0ac387e89115b5526416511071353113-480-0.jpg",
       "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "ME-302",
@@ -346,7 +346,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/me-302-11-ba1b9f69b8e55a30fe16511069504079-480-0.jpg",
       "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "ME-301",
@@ -356,7 +356,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/me-301-11-30ce77d1bca4d2e32a16511068483233-480-0.jpg",
       "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
 
     //MARMOLADO
@@ -369,7 +369,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/ma-210-21-acaf60a542573a838316511084077196-480-0.jpg",
       "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "MA-209",
@@ -379,7 +379,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/ma-209-21-4590e2f92a6a26fa2116511083410867-480-0.jpg",
       "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "MA-208",
@@ -389,7 +389,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/ma-208-21-f06c2c80355494abd916511082609620-480-0.jpg",
       "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "MA-207",
@@ -399,7 +399,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/ma-207-21-9d11e2b9d3e2c61b6616511081525897-480-0.jpg",
       "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "MA-206",
@@ -409,7 +409,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/ma-206-21-328d54d4722ebca85816511080696323-480-0.jpg",
       "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "MA-205",
@@ -419,7 +419,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/ma-205-21-b167ff4ed13c114e7b16511079766889-480-0.jpg",
       "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "MA-204",
@@ -429,7 +429,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/ma-204-21-02fa1fb00ac0ebb0a216511079174667-480-0.jpg",
       "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "MA-203",
@@ -439,7 +439,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/ma-203-21-911e36a496b1ba666716511078548456-480-0.jpg",
       "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "MA-202",
@@ -449,7 +449,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/ma-202-21-06fa10f0c2ad0732bf16511077302436-480-0.jpg",
       "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "MA-201",
@@ -459,7 +459,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/ma-201-21-71a4b5beee9131f22e16511076624310-480-0.jpg",
       "price": "1490,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
 
     //VINTAGE
@@ -472,7 +472,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/vin-517-11-efdc02d938138958aa16587227631186-480-0.jpg",
       "price": "1640,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "VIN-516",
@@ -482,7 +482,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/vin-516-11-99059567e7daea513b16587226677489-480-0.jpg",
       "price": "1640,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "VIN-515",
@@ -492,7 +492,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/vin-515-11-bf5effdecc649a564816587226206868-480-0.jpg",
       "price": "1640,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "VIN-514",
@@ -502,7 +502,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/vin-514-11-d2a2b41bb4b08e9ef016587225751072-480-0.jpg",
       "price": "1640,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "VIN-513",
@@ -512,7 +512,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/vin-513-21-d5bec1ffe181d5621b16587225259323-480-0.jpg",
       "price": "1640,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "VIN-512",
@@ -522,7 +522,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/vin-512-11-6f3c6aa46d69a5794816587224751949-480-0.jpg",
       "price": "1640,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "VIN-511",
@@ -532,7 +532,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/vin-511-11-543a52aa92c1d1116416587224258424-480-0.jpg",
       "price": "1640,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "VIN-510",
@@ -542,7 +542,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/vin-510-11-8d06e5c0f7c5cfde8c16587223879092-480-0.jpg",
       "price": "1640,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "VIN-509",
@@ -552,7 +552,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/vin-509-11-fbaf89cb3b9af01f5716587223445482-480-0.jpg",
       "price": "1640,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "VIN-508",
@@ -562,7 +562,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/vin-508-11-6a706bbd82940cad9b16587223037657-480-0.jpg",
       "price": "1640,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "VIN-507",
@@ -572,7 +572,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/vin-507-11-684ad18729b76d7cce16587222639594-480-0.jpg",
       "price": "1640,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "VIN-506",
@@ -582,7 +582,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/vin-506-1_1-76e1abdbe7ec79021416587222246639-480-0.jpg",
       "price": "1640,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "VIN-505",
@@ -592,7 +592,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/vin-505-11-504f13a21160bcd50a16587221815059-480-0.jpg",
       "price": "1640,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "VIN-504",
@@ -602,7 +602,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/vin-504-11-34b1271b41f559e13216587221362154-480-0.jpg",
       "price": "1640,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "VIN-503",
@@ -612,7 +612,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/vin-503-11-4572b75623218b834c16587220670143-480-0.jpg",
       "price": "1640,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "VIN-502",
@@ -622,7 +622,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/vin-502-11-b0e8c4a007acb524f616587220257981-480-0.jpg",
       "price": "1640,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
     {
       "id": "VIN-501",
@@ -632,7 +632,7 @@ const data = [
       "productImage": "https://d2r9epyceweg5n.cloudfront.net/stores/002/137/496/products/vin-501-11-8a2a4a80fdd732559916587219305938-480-0.jpg",
       "price": "1640,00",
       "stock": "POR PEDIDO",
-      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. Tamaño de cada venecita 2x2 cm. Tamaño completo de la guarda 4,2 cm * 100 cm. nCada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
+      "detalle": "Guarda de venecitas autoadhesivas con relieve para superficies lisas. El tamaño de cada venecita es de 2x2 cm. El tamaño completo de la guarda es de 4,2 cm * 100 cm. Cada pieza de venecita de 2*2 cm viene con una separación de 2 mm entre venecita y venecita.",
     },
 ]
 export default data;

@@ -56,7 +56,7 @@ function ItemList(props) {
                 <Container className="itemContainer">
                     <Row>
                         {props.items.map((items, k) => (
-                            <Col key={k} xs={12} md={4} lg={3}>
+                            <Col key={k} xs={6} md={4} lg={3}>
                                 <Card className="mb-3 text-center card">
                                     <Card.Img src={items.productImage} />
                                     <Card.Body>

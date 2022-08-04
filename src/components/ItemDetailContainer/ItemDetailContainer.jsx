@@ -17,7 +17,7 @@ const ItemDetailContainer = ({setAmountItems}) => {
       setItem(foundItem)
     })
   }, [])
-  return <ItemDetail setAmountItems={setAmountItems}  item={item} />;
+  return <ItemDetail item={item} />;
 }
 
 

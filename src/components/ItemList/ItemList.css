@@ -26,8 +26,8 @@ h1{
 }
 
 .buttonLink:hover{
-    background-color: #b9a668fd;
-    color: #f5e5b1fd;
+    background-color: #b9a668fd !important;
+    color: #f5e5b1fd !important;
 }
 
 .arbol{
@@ -42,8 +42,4 @@ h1{
     border: 0.2rem solid #b9a668fd !important;
     background-color: #f5e5b1fd !important;
     color: #b9a668fd !important;
-}
-
-.divButton{
-    display: none !important;
 }
